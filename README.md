@@ -91,13 +91,20 @@ curl -X POST http://localhost:5116/api/instances/{instanceId}/execute
 ## 🧩 Project Structure
 
 WorkflowEngine/
+│
 ├── Program.cs
+│
 ├── State.cs
+│
 ├── ActionDef.cs
+│
 ├── WorkflowDefinition.cs
+│
 ├── WorkflowInstance.cs
+│
 └── ExecuteActionRequest.cs
-undefined
+
+
 ---
 
 ## ✏️ Shortcuts
