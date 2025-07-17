@@ -97,7 +97,7 @@ WorkflowEngine/
 ├── WorkflowDefinition.cs
 ├── WorkflowInstance.cs
 └── ExecuteActionRequest.cs
-
+undefined
 ---
 
 ## ✏️ Shortcuts
@@ -106,12 +106,6 @@ WorkflowEngine/
 - Models defined as C# `record` or `class` types.
 - No persistent database integration.
 - No automated test suite included.
-
----
-
-## 🔗 License
-
-MIT or as per your requirements.
 
 ---
 
